@@ -20,3 +20,5 @@ npm run build && npm start
 - `lib/school.js` – sample data, constants and selectors
 
 Data is stored in the browser only (`localStorage` key `sala-sms-v1`).
+
+By Xann
